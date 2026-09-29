@@ -1,0 +1,3 @@
+DATABASE_TYPE = "sqlite"
+SCRAPER_NAME = "Book Price Tracker"
+REQUEST_TIMEOUT = 15
